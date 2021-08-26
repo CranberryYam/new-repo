@@ -1,2 +1,3 @@
 let name = 'index'
-console.log('index.js' + 'name' + name)
+let age = 22
+console.log('index.js' + 'name:' + name + ' age:' + age)
