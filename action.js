@@ -1,2 +1,2 @@
 let name = 'action'
-console.log(name)
+console.log('module: ' + name)
